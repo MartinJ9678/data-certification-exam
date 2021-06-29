@@ -1,0 +1,7 @@
+{
+    "MEDIAN_AGE": "\nThe median age is associated with a positive effect on the number of crime incidents. For each increase of 1 year, number of incidents increases on average by 2252.\"\n",
+    "T_STAT": "\nThe t-statistic associated to the median age is about 1.820. It is computed as follows : t = (sample average - theoretical average)/(sample standard deviation * square root(sample size))\n",
+    "P_VALUE": "\np-value is up to 0.05 so it is not statistically significant enough at the 95% confidence level nor at the 90% confidence level.\n",
+    "INCREASE": "\nthe total number of incidents decrease about 2115 when the share of families with a married couple increases by 1 percentage point in the district.\n",
+    "LIMITATIONS": "\nThey are correlations between the differents variables, mostly about ages. \n"
+}
